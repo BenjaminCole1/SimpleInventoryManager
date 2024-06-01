@@ -1,0 +1,14 @@
+bin/
+obj/
+
+*.user
+*.suo
+
+.vs/
+*.suo
+
+packages/
+
+[Oo]ut/
+[Bb]uild/
+[Ll]og/
